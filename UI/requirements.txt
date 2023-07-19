@@ -1,0 +1,11 @@
+hopsworks
+joblib
+gradio
+numpy
+pandas
+requests
+scikit-learn
+tqdm
+xgboost==1.7.2
+geopy
+autogluon
